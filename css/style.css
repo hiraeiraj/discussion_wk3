@@ -1,0 +1,12 @@
+body{color: white;
+    background-color: rgba(0, 0, 0, 0.747);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h1, h2{ font-weight: bold;
+color: greenyellow;}
+img{width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  border: pink 5px solid;
+}
